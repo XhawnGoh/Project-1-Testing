@@ -1,1 +1,11 @@
 Hello World
+// create new git repository// 1 time only
+git init
+git remote add origin
+git branch -M main
+
+
+//update git with changes
+git add .
+git commit -m "message"
+git push origin main
