@@ -1,13 +1,13 @@
-//let message ="benr"// bcm string type variable
-//console.log (message)
-//console.log(typeof message)
+//let message01 ="-0.1"// bcm string type variable  // show type of data and print
+//console.log (message01)                           //console.log 是run function 的关键
+//console.log(typeof message01)
 
-//message = 123
+//message = 123                                     //两个一起
 //console.log(message,typeof message)
 
 
 //let str = "BENR"
-//let num = 3523
+//let num = 3523                                      //if 1+1 会变成11 因为不是math
 //let course = str + num
 //console.log(course,typeof course)
 
@@ -17,16 +17,18 @@
 //let total = parseFloat(str) + num
 //console.log(total,typeof total)
 
-//let Data1 = ["Benr", 3523, true]
+//let Data1 = ["Benr", 3523, true]          //[]是array 每个，都是element的分开
 
-//console.log(Data1[0])
+//console.log(Data1[0])                     //show第0个element
 //console.log(Data1[2])
 
-//let Data2 = {
+//let Data2 = {                             //{}是object 和object 不一样的是它是用keyword分开
 //    Name:"Goh", 
 //    Age: 24, 
 //    Faculty: "FKEKK"
 //}
+//也可以横着写 一样的
+//let Data2 = {Name: "Xhawn", Age:99,Hobby:"Badminton"}
 
 //console.log(Data2.Name)
 //console.log(Data2.Age)
