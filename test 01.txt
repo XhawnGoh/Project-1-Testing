@@ -1,4 +1,5 @@
-Hello World
+cd //去哪个file
+dir //direction
 // create new git repository// 1 time only
 git init
 git remote add origin
@@ -9,7 +10,10 @@ git branch -M main
 1）git add .
 2）git commit -m "message" //git hub 里面的proj名
 3）git push origin main
+<<<<<<< HEAD
 
 1）git pull origin main
 
 1)git clone
+=======
+>>>>>>> ed858de202c715e656c47c2b61a06ad2c0384f6a
