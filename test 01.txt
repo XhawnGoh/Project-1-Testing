@@ -1,4 +1,5 @@
-Hello World
+cd //去哪个file
+dir //direction
 // create new git repository// 1 time only
 git init
 git remote add origin
